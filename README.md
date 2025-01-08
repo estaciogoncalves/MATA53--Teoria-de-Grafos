@@ -1,0 +1,1 @@
+Esse repositório contém as implementações dos algoritmos de Bron-Kerbosch e de Carraghan & Pardalos feitas no contexto do seminário sobre "Cliques e suas variações" da disciplina MATA53-Teoria de Grafos no semestre 2024.2.
